@@ -1,5 +1,5 @@
 # Dispositivo
-Ejemplo de cliente NodeMCU controlado por Firestore REST. de Fernando Izazaga Martínez
+Ejemplo de cliente NodeMCU controlado por Firestore REST. de Diaz Becerril Coby Williams
 
 interactúa con
-https://zaza381026.github.io/PWA_IMF_51M/index.html
+https://divisioncwdb.github.io/pwa_coby/index.html
