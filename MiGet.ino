@@ -4,10 +4,10 @@
 #include <WiFiClientSecureBearSSL.h>
 #include <ArduinoJson.h>
 
-#define SSID "INFINITUM1531_2.4"
-#define PASS  "VRPR6Fxcub"
+#define SSID "IZZI-C9CD"
+#define PASS  "DANIWINGS"
 #define HUELLA_DIGITAL "798bb177930734ec69314098399b857fc89321e8"
-#define URL "https://firestore.googleapis.com/v1/projects/gilpgiotx/databases/(default)/documents/Salida/iot2"
+#define URL "https://firestore.googleapis.com/v1/projects/pwa-coby/databases/(default)/documents/Salida/iot2"
 
 /** Controlador de WiFi. */
 ESP8266WiFiMulti WiFiMulti;
