@@ -4,11 +4,11 @@
 #include "ProxyEntrada.hpp"
 #include "ProxyHistorial.hpp"
 
-#define SSID "INFINITUM1531_2.4"
-#define PASS  "VRPR6Fxcub"
+#define SSID "IZZI-C9CD"
+#define PASS  "DANIWINGS"
 #define HUELLA_DIGITAL "798bb177930734ec69314098399b857fc89321e8"
 #define DISPOSITIVO_ID "iot2"
-#define ID_PROYECTO "gilpgiotx"
+#define ID_PROYECTO "pwa-coby"
 
 // Pin del botón flash.
 const int BOTON_FLASH = 0;
